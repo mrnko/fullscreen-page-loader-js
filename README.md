@@ -6,7 +6,7 @@
 
 ---
 
-Siimple fullscreen loader for your project built using vanilla HTML, CSS and JavaScript.
+Simple fullscreen loader for your project built using vanilla HTML, CSS and JavaScript.
 
 ## Demo
 
